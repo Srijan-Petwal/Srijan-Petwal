@@ -2,7 +2,7 @@
 
 🚀 Passionate about building **web applications** 🌐, creating immersive **3D experiences** 🎮, and exploring the world of **AI/ML** 🤖.
 
-🖍️Connect: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/srijancs)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/srijancs)
 ---
 
 ## 🧠 About Me
