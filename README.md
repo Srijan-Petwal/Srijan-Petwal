@@ -6,9 +6,17 @@
 
 ## 🧠 About Me
 
-I'm a Computer Science student and a creative developer who blends design, code, and intelligence to make cool things on the web.  
-I love working at the intersection of **frontend development**, **3D visualizations**, and **machine learning**. 
+> 🔍 **Curious by nature. Coder by choice. Creative by accident.**  
+> 🎯 I build things that *immerse*, *move*, *talk*, and *sometimes think*(what is thinking actually?).  
 
+---
+
+🧩 **What I Do:**
+
+- 🌐 Craft powerful **Web Apps** that feel light and move fast  
+- 🎮 Build immersive **3D Games & Experiences** (yes, playable in your browser!)  
+- 🤖 Explore the world of **AI/ML**, where machines try to outsmart me (not yet though 😉)  
+- 🕊️ Believe that **freedom and liberty** — in software, speech, and life — are not optional, they’re *essential*
 ---
 
 ## 🛠️ Tech Stack
