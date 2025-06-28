@@ -98,7 +98,7 @@ Passionate about building **web applications** 🌐, creating immersive **3D exp
 
 - 🤿 Physics with [`@react-three/rapier`](https://github.com/pmndrs/react-three-rapier)
 - 🌐 Full-stack integration of ML into web apps
-- 🔌 API design and best practices (REST, GraphQL)
+- 🔌 Component API design and best practices (REST, GraphQL)
 - 🌐 Decentralized Web (Web3, Smart Contracts, dApps)
 - 🧪 Competitive programming and computer science fundamentals
 
