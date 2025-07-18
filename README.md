@@ -63,6 +63,13 @@ Passionate about building **web applications** 🌐, creating immersive **3D exp
 
 ---
 
+### 🚀 [Mission Control](https://github.com/Srijan-Petwal/mission-control)
+> A **backend-focused mission planner** using real NASA exoplanet data.  
+> 🛰️ Schedule, track, and abort space missions to habitable planets.  
+> **Tech**: Node.js, Express, React, Insomnia, Kepler Exoplanet Archive  
+> 📸 Includes frontend views, working demo video, and API tests.
+
+---
 ### 💻 [3D-within-3D](https://github.com/Srijan-Petwal/3D-within-3D)
 > A **meta-3D experiment** — a game running *inside* a 3D MacBook model!  
 > Truly a “game within a game” rendered on a virtual laptop.  
