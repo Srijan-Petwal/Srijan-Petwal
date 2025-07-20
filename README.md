@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Srijan!
+# Hey there, I'm Srijan!
 
 Passionate about building **web applications** 🌐, creating immersive **3D experiences** 🎮, and exploring the world of **AI/ML** 🤖.
 
