@@ -61,7 +61,7 @@ Passionate about building **web applications** 🌐, creating immersive **3D exp
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
 | [🎮Snowy Escape](https://github.com/Srijan-Petwal/snowy-escape) | A **3D web game** — navigate through a snowy world in your browser! | React Three Fiber, WebGL, JavaScript |
-| [🚀 Mission Control](https://github.com/Srijan-Petwal/mission-control) | A **backend-focused mission planner** using real NASA data. Schedule, track, and abort missions. | Node.js, Express, React, MongoDB, Insomnia |
+| [🚀 Mission Control](https://github.com/Srijan-Petwal/mission-control) | A **backend-focused mission planner** using real NASA and SpaceX data. Schedule, track, and abort missions. | Node.js, Express, React, MongoDB, Insomnia |
 | [💻 3D-within-3D](https://github.com/Srijan-Petwal/3D-within-3D) | A meta-experiment: A game running *inside* a 3D laptop model. | Three.js, React Three Fiber |
 | [🗣️ Vox Coder](https://github.com/Pranav-Uniyal/Vox-Coder-Voice-Enabled-Compiler) | Speech-to-code app parsing spoken input into syntax trees. | Python, Tkinter, Lark, SpeechRecognition |
 | [🌐 E-Portfolio](https://github.com/Srijan-Petwal/Eportfolio-assign) | An elegant personal portfolio built for university — with a 3D twist. | HTML, CSS, JS, Three.js |
