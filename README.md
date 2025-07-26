@@ -1,28 +1,29 @@
-# Hiya, I'm Srijan!
+#  Hiya, I'm Srijan!
 
 Passionate about building **web applications** 🌐, creating immersive **3D experiences** 🎮, and exploring the world of **AI/ML** 🤖.
 
-🖍️ **Connect** : [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/srijancs) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-petwal/)
+🖍️ **Connect**:  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/srijancs)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-petwal/)
 
-                
+> *(idk what's wrong with Twitter but posts are visible only when viewing from a logged-in account)*
 
-> (idk what's wrong with twiiter but posts are visible only when viewing from logged in account)
 ---
 
-## About Me
-
+## 🧬 About Me
 
 > 🔍 **Curious by nature. Coder by choice. Creative by accident.**  
-> 🎯 I build things that *immerse*, *move*, *talk*, and *sometimes think*(what is thinking actually?).  
+> 🎯 I build things that *immerse*, *move*, *talk*, and *sometimes think* (what is thinking actually?).
 
 ---
 
-🧩 **What I Do:**
+## 🧩 What I Do
 
 - 🌐 Craft powerful **Web Apps** that feel light and move fast  
 - 🎮 Build immersive **3D Games & Experiences** (yes, playable in your browser!)  
 - 🤖 Explore the world of **AI/ML**, where machines try to outsmart me (not yet though 😉)  
 - 🕊️ Believe that **freedom and liberty** — in software, speech, and life — are not optional, they’re *essential*
+
 ---
 
 ## 🛠️ Tech Stack
@@ -55,73 +56,33 @@ Passionate about building **web applications** 🌐, creating immersive **3D exp
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🎮 [Snowy Escape](https://github.com/Srijan-Petwal/snowy-escape)
-> A **3D web game** built using modern frontend 3D tech.  
-> ❄️ Navigate through a snowy world — right in your browser!  
-> **Tech**: React Three Fiber, JavaScript, WebGL
-
----
-
-### 🚀 [Mission Control](https://github.com/Srijan-Petwal/mission-control)
-> A **backend-focused mission planner** using real NASA exoplanet data.  
-> 🛰️ Schedule, track, and abort space missions to habitable planets.  
-> **Tech**: Node.js, Express, React, Insomnia, Kepler Exoplanet Archive  
-> 📸 Includes frontend views, working demo video, and API tests.
-
----
-### 💻 [3D-within-3D](https://github.com/Srijan-Petwal/3D-within-3D)
-> A **meta-3D experiment** — a game running *inside* a 3D MacBook model!  
-> Truly a “game within a game” rendered on a virtual laptop.  
-> **Tech**: Three.js, React Three Fiber
-
----
-
-### 💡 [Vox Coder – Voice-Enabled Compiler](https://github.com/Pranav-Uniyal/Vox-Coder-Voice-Enabled-Compiler)
-> Speech-to-code app that parses spoken input into code and syntax trees.  
-> 🗣️ My role: Voice integration & parsing logic using compiler design concepts  
-> **Tech**: Python, Lark, SpeechRecognition, Tkinter
-
----
-
-### 🌐 [E-Portfolio (PESE-600 Assignment)](https://github.com/Srijan-Petwal/Eportfolio-assign)
-> An elegant personal portfolio using **vanilla HTML/CSS/JS** and a touch of **Three.js**  
-> 📘 Built to fulfill university assignment requirements with a creative 3D twist.
-
----
-
-### 🔬 [Hello Cocco](https://github.com/Srijan-Petwal/hello-cocco)
-> My **Three.js + React Three Fiber sandbox** for learning and experiments.  
-> 🧪 Includes lighting, model loading, and animation trials.
-> My "HELLO WORLD!"
----
-
-### 🌞 [3D Solar System](https://github.com/Srijan-Petwal/3D-Solar-System)
-> A dynamic, orbit-accurate **3D solar system** using Three.js  
-> 🌍 Earth, moon, and sun with lighting, shadows, and scale-based positioning.
-
----
-
-## 💡 Want to try them out?
-
-🔗 Most of these are **playable or viewable online** — check out the links in each repo's description or in my portfolio (coming soon)!
+| Project | Description | Tech Used |
+|--------|-------------|-----------|
+| [🎮Snowy Escape](https://github.com/Srijan-Petwal/snowy-escape) | A **3D web game** — navigate through a snowy world in your browser! | React Three Fiber, WebGL, JavaScript |
+| [🚀 Mission Control](https://github.com/Srijan-Petwal/mission-control) | A **backend-focused mission planner** using real NASA data. Schedule, track, and abort missions. | Node.js, Express, React, MongoDB, Insomnia |
+| [💻 3D-within-3D](https://github.com/Srijan-Petwal/3D-within-3D) | A meta-experiment: A game running *inside* a 3D laptop model. | Three.js, React Three Fiber |
+| [🗣️ Vox Coder](https://github.com/Pranav-Uniyal/Vox-Coder-Voice-Enabled-Compiler) | Speech-to-code app parsing spoken input into syntax trees. | Python, Tkinter, Lark, SpeechRecognition |
+| [🌐 E-Portfolio](https://github.com/Srijan-Petwal/Eportfolio-assign) | An elegant personal portfolio built for university — with a 3D twist. | HTML, CSS, JS, Three.js |
+| [🔬 Hello Cocco](https://github.com/Srijan-Petwal/hello-cocco) | A sandbox for learning Three.js & R3F — my “Hello World!” for 3D. | React Three Fiber, Three.js |
+| [🌞 3D Solar System](https://github.com/Srijan-Petwal/3D-Solar-System) | An accurate, orbiting solar system in the browser. | Three.js, Lights, Shadow, OrbitControls |
 
 ---
 
 ## 📚 Currently Exploring
 
-- 🤿 Physics with [`@react-three/rapier`](https://github.com/pmndrs/react-three-rapier)
-- 🌐 Full-stack integration of ML into web apps
-- 🔌 Component API design and best practices (REST, GraphQL)
-- 🌐 Decentralized Web (Web3, Smart Contracts, dApps)
-- 🧪 Competitive programming and computer science fundamentals
+- 🤿 Physics with [`@react-three/rapier`](https://github.com/pmndrs/react-three-rapier)  
+- 🌐 Full-stack integration of ML into web apps  
+- 🔌 Component API design and best practices (REST, GraphQL)  
+- ⛓️ Decentralized Web (Web3, Smart Contracts, dApps)  
+- 🧪 Competitive programming and computer science fundamentals  
 
 ---
 
-## 💬 Let's Connect
+## 💬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/srijan-petwal)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-petwal)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/srijancs)
 
 ---
