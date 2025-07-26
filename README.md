@@ -1,4 +1,4 @@
-# Hey there, I'm Srijan!
+# Hiya, I'm Srijan!
 
 Passionate about building **web applications** 🌐, creating immersive **3D experiences** 🎮, and exploring the world of **AI/ML** 🤖.
 
@@ -9,7 +9,7 @@ Passionate about building **web applications** 🌐, creating immersive **3D exp
 > (idk what's wrong with twiiter but posts are visible only when viewing from logged in account)
 ---
 
-<h2 style="color:#4CAF50; font-weight:bold;">👋 About Me</h2>
+## About Me
 
 
 > 🔍 **Curious by nature. Coder by choice. Creative by accident.**  
@@ -55,7 +55,7 @@ Passionate about building **web applications** 🌐, creating immersive **3D exp
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### 🎮 [Snowy Escape](https://github.com/Srijan-Petwal/snowy-escape)
 > A **3D web game** built using modern frontend 3D tech.  
@@ -78,7 +78,7 @@ Passionate about building **web applications** 🌐, creating immersive **3D exp
 
 ---
 
-### 🧠 [Vox Coder – Voice-Enabled Compiler](https://github.com/Pranav-Uniyal/Vox-Coder-Voice-Enabled-Compiler)
+### 💡 [Vox Coder – Voice-Enabled Compiler](https://github.com/Pranav-Uniyal/Vox-Coder-Voice-Enabled-Compiler)
 > Speech-to-code app that parses spoken input into code and syntax trees.  
 > 🗣️ My role: Voice integration & parsing logic using compiler design concepts  
 > **Tech**: Python, Lark, SpeechRecognition, Tkinter
