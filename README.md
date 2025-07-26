@@ -9,7 +9,8 @@ Passionate about building **web applications** 🌐, creating immersive **3D exp
 > (idk what's wrong with twiiter but posts are visible only when viewing from logged in account)
 ---
 
-## 🧠 About Me
+<h2 style="color:#4CAF50; font-weight:bold;">👋 About Me</h2>
+
 
 > 🔍 **Curious by nature. Coder by choice. Creative by accident.**  
 > 🎯 I build things that *immerse*, *move*, *talk*, and *sometimes think*(what is thinking actually?).  
