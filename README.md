@@ -59,7 +59,7 @@ Passionate about building **web applications** 🌐, creating immersive **3D exp
 ## 🚀 Featured Projects
 
 | 🌟 **Project**        | 📚 **Description**                                                                                             | 🛠️ **Tech Used**                                 |
-|-----------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+|-----------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
 | **[Snowy Escape](https://github.com/Srijan-Petwal/snowy-escape)**      | A 3D web game ~ navigate through a snowy world right in your browser!                          | React Three Fiber, WebGL, JavaScript             |
 | **[Mission Control](https://github.com/Srijan-Petwal/mission-control)** | A mission planner powered by real NASA & SpaceX data. Schedule, track, abort & review launches. | Node.js, Express, React, MongoDB, Insomnia       |
 | **[3D-within-3D](https://github.com/Srijan-Petwal/3D-within-3D)**      | A meta-3D experiment: a game running *inside* a 3D laptop model.                                | Three.js, React Three Fiber                      |
