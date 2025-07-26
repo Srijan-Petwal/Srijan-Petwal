@@ -57,17 +57,16 @@ Passionate about building **web applications** 🌐, creating immersive **3D exp
 ---
 
 ## 🚀 Featured Projects
-## 🔥 Featured Projects
 
-| 🧪 Project                                                   | 🔍 What It Does                                     | 🛠️ Tech                      |
-|-------------------------------------------------------------|----------------------------------------------------|------------------------------|
-| [**Snowy Escape**](https://github.com/Srijan-Petwal/snowy-escape)        | A **3D winter game** in-browser. Glide, jump, survive the cold! | React Three Fiber, WebGL     |
-| [**Mission Control**](https://github.com/Srijan-Petwal/mission-control)  | Full-stack space mission planner using **NASA data** | Node.js, Express, React      |
-| [**3D-within-3D**](https://github.com/Srijan-Petwal/3D-within-3D)        | A game that runs *inside* a 3D MacBook model        | Three.js, React Three Fiber  |
-| [**Vox Coder**](https://github.com/Pranav-Uniyal/Vox-Coder-Voice-Enabled-Compiler) | Converts **spoken code** to syntax trees and visual output | Python, Tkinter, Lark        |
-| [**E-Portfolio**](https://github.com/Srijan-Petwal/Eportfolio-assign)    | Personal portfolio with a **3D twist**              | HTML, CSS, JS, Three.js      |
-| [**Hello Cocco**](https://github.com/Srijan-Petwal/hello-cocco)          | Personal **sandbox** for R3F and lighting experiments | React Three Fiber            |
-| [**3D Solar System**](https://github.com/Srijan-Petwal/3D-Solar-System)  | Orbit-accurate **solar system** with lighting       | Three.js, Lights & Shadows   |
+| 🌟 **Project**        | 📚 **Description**                                                                                             | 🛠️ **Tech Used**                                 |
+|-----------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| **[Snowy Escape](https://github.com/Srijan-Petwal/snowy-escape)**      | A 3D web game ~ navigate through a snowy world right in your browser!                          | React Three Fiber, WebGL, JavaScript             |
+| **[Mission Control](https://github.com/Srijan-Petwal/mission-control)** | A mission planner powered by real NASA & SpaceX data. Schedule, track, abort & review launches. | Node.js, Express, React, MongoDB, Insomnia       |
+| **[3D-within-3D](https://github.com/Srijan-Petwal/3D-within-3D)**      | A meta-3D experiment: a game running *inside* a 3D laptop model.                                | Three.js, React Three Fiber                      |
+| **[Vox Coder](https://github.com/Pranav-Uniyal/Vox-Coder-Voice-Enabled-Compiler)** | Speech-to-code app that parses spoken input into syntax trees visually.                        | Python, Tkinter, Lark, SpeechRecognition|
+| **[E-Portfolio](https://github.com/Srijan-Petwal/Eportfolio-assign)**  | An elegant personal portfolio built for a university assignment — with a 3D twist.              | HTML, CSS, JS, Three.js                          |
+| **[Hello Cocco](https://github.com/Srijan-Petwal/hello-cocco)**        | My sandbox for learning Three.js & R3F — basically, my “Hello World!” for 3D.                   | React Three Fiber, Three.js                      |
+| **[3D Solar System](https://github.com/Srijan-Petwal/3D-Solar-System)**| An accurate, orbiting solar system in the browser with dynamic lighting and scale.              | Three.js, Lights, Shadows, OrbitControls         |
 
 
 ---
