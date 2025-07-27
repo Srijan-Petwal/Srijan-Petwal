@@ -88,7 +88,7 @@ An elegant personal portfolio built for a university assignment — with a 3D tw
 
 ---
 
-### 🌐 [Hello Cocco](https://github.com/Srijan-Petwal/hello-cocco)  
+### 🧪 [Hello Cocco](https://github.com/Srijan-Petwal/hello-cocco)  
 A containerized 3D sandbox deployed via Docker on AWS EC2. Explore animated scenes built using Blender assets and React Three Fiber.  
 **Tech Used:** React Three Fiber, Three.js, Blender, Docker, AWS EC2  
 
