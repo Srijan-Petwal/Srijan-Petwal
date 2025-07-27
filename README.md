@@ -98,6 +98,8 @@ A containerized 3D sandbox deployed via Docker on AWS EC2. Explore animated scen
 An accurate, orbiting solar system simulation in the browser with dynamic lighting and real-scale orbits.  
 **Tech Used:** Three.js, Lighting, Shadows, OrbitControls  
 
+---
+
 ## 📚 Currently Exploring
 
 - 🤿 Physics with [`@react-three/rapier`](https://github.com/pmndrs/react-three-rapier)  
