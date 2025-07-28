@@ -1,6 +1,6 @@
 #  Hiya, I'm Srijan!
 
-Passionate about building **web applications** 🌐, creating immersive **3D experiences** 🎮, and exploring the world of **AI/ML** 🤖.
+Passionate about building **web applications**, creating immersive **3D experiences** 🎮, and exploring the world of **AI/ML** 🤖.
 
 🖍️ **Connect**: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/srijancs) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-petwal/)
 
@@ -18,14 +18,14 @@ Passionate about building **web applications** 🌐, creating immersive **3D exp
 
 ## 🧩 What I Do
 
-- 🌐 Craft powerful **Web Apps** that feel light and move fast  
-- 🎮 Build immersive **3D Games & Experiences** (yes, playable in your browser!)  
-- 🤖 Explore the world of **AI/ML**, where machines try to outsmart me (not yet though 😉)  
+- Craft powerful **Web Apps** that feel light and move fast  
+- Build immersive **3D Games & Experiences** (yes, playable in your browser!)  
+- Explore the world of **AI/ML**, where machines try to outsmart me (not yet though 😉)  
 - 🕊️ Believe that **freedom and liberty** ~ in software, speech, and life — are not optional, they’re *essential*
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
@@ -101,11 +101,11 @@ An accurate, orbiting solar system simulation in the browser with dynamic lighti
 
 ## 📚 Currently Exploring
 
-- 🤿 Physics with [`@react-three/rapier`](https://github.com/pmndrs/react-three-rapier)  
-- 🌐 Full-stack integration of ML into web apps  
-- 🔌 Component API design and best practices (REST, GraphQL)  
-- ⛓️ Decentralized Web (Web3, Smart Contracts, dApps)  
-- 🧪 Competitive programming and computer science fundamentals  
+-  Physics with [`@react-three/rapier`](https://github.com/pmndrs/react-three-rapier)  
+-  Full-stack integration of ML into web apps  
+-  Component API design and best practices (REST, GraphQL)  
+-  Decentralized Web (Web3, Smart Contracts, dApps)  
+-  Competitive programming and computer science fundamentals  
 
 ---
 
