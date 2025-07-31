@@ -2,7 +2,7 @@
 
 Passionate about building **web applications**, creating immersive **3D experiences** 🎮, and exploring the world of **AI/ML** 🤖.
 
-**Socials**:
+### Socials:
 <p align="left">
   <a href="mailto:s&#114;&#105;&#106;&#097;&#110;&#112;&#101;&#116;&#119;&#097;&#108;&#050;&#053;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" target="_blank">
     <img src="https://img.icons8.com/color/30/gmail--v1.png" alt="Gmail" />
