@@ -2,8 +2,25 @@
 
 Passionate about building **web applications**, creating immersive **3D experiences** 🎮, and exploring the world of **AI/ML** 🤖.
 
-🖍️ **Connect**: [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/srijancs) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-petwal/)
+**Socials**:
+<p align="left">
+  <a href="mailto:s&#114;&#105;&#106;&#097;&#110;&#112;&#101;&#116;&#119;&#097;&#108;&#050;&#053;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" target="_blank">
+    <img src="https://img.icons8.com/color/30/gmail--v1.png" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/&#115;&#114;&#105;&#106;&#097;&#110;&#099;&#115;" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitterx.png" alt="X/Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/&#115;&#114;&#105;&#106;&#097;&#110;&#045;&#112;&#101;&#116;&#119;&#097;&#108;" target="_blank">
+    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn" />
+  </a>
+</p>
 
+
+
+> [!NOTE]
+> I have temporarily deactivated my X(twitter) account.
 
 ---
 
