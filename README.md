@@ -17,11 +17,6 @@ Passionate about building **web applications**, creating immersive **3D experien
   </a>
 </p>
 
-
-
-> [!NOTE]
-> I have temporarily deactivated my X(twitter) account.
-
 ---
 
 ## 🧬 About Me
