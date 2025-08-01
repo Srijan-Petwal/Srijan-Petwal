@@ -111,16 +111,6 @@ An accurate, orbiting solar system simulation in the browser with dynamic lighti
 
 ---
 
-## 📚 Currently Exploring
-
--  Physics with [`@react-three/rapier`](https://github.com/pmndrs/react-three-rapier)  
--  Full-stack integration of ML into web apps  
--  Component API design and best practices (REST, GraphQL)  
--  Decentralized Web (Web3, Smart Contracts, dApps)  
--  Competitive programming and computer science fundamentals  
-
----
-
 ## 💬 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-petwal)
