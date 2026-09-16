@@ -1,7 +1,6 @@
-#  Hiya, I'm Srijan!
+# Hiya, I'm Srijan!
 
-Passionate about building **web applications**, creating immersive **3D experiences** 🎮, and exploring the world of **AI/ML** 🤖.
-
+Building things that immerse, automate, and think — from 3D experiences to AI agents.
 ### Socials:
 <p align="left">
   <a href="mailto:s&#114;&#105;&#106;&#097;&#110;&#112;&#101;&#116;&#119;&#097;&#108;&#050;&#053;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" target="_blank">
@@ -19,19 +18,19 @@ Passionate about building **web applications**, creating immersive **3D experien
 
 ---
 
-## 🧬 About Me
+## About Me
 
-> 🔍 **Curious by nature. Coder by choice. Creative by accident.**  
-> 🎯 I build things that *immerse*, *move*, *talk*, and *sometimes think* (what is thinking actually?).
+> **Curious by nature. Coder by choice. Creative by accident.**  
+> I build things that *immerse*, *move*, *talk*, and *sometimes think* (what is thinking actually?).
 
 ---
 
-## 🧩 What I Do
+## What I Do
 
-- Craft powerful **Web Apps** that feel light and move fast  
-- Build immersive **3D Games & Experiences** (yes, playable in your browser!)  
-- Explore the world of **AI/ML**, where machines try to outsmart me (not yet though 😉)  
-- 🕊️ Believe that **freedom and liberty** ~ in software, speech, and life — are not optional, they’re *essential*
+- Craft powerful **Web Apps** that feel light and move fast
+- Build immersive **3D Games & Experiences** playable in the browser
+- Explore **AI/ML**, from traditional machine learning to generative AI and agentic systems
+- Believe that **freedom and liberty** — in software, speech, and life — are essential
 
 ---
 
@@ -48,74 +47,67 @@ Passionate about building **web applications**, creating immersive **3D experien
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
 ![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-000?style=flat)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Rapier](https://img.shields.io/badge/-Rapier-000000?style=flat)
 
-**ML / Backend**  
+**AI / ML**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat)
+![RAG](https://img.shields.io/badge/-RAG-555555?style=flat)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-555555?style=flat)
+![MCP](https://img.shields.io/badge/-MCP-555555?style=flat)
+![LangSmith](https://img.shields.io/badge/-LangSmith-555555?style=flat)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat)
+
+**Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-555555?style=flat)
 
 **Tools & Other**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌨️ [Snowy Escape](https://github.com/Srijan-Petwal/snowy-escape)  
-A 3D web game — navigate through a snowy world right in your browser!  
-**Tech Used:** React Three Fiber, WebGL, JavaScript  
-
----
-
-### 🛰️ [Mission Control](https://github.com/Srijan-Petwal/mission-control)  
-A mission planner powered by real NASA & SpaceX data. Schedule, track, abort, and review launches.  
-**Tech Used:** Node.js, Express, React, MongoDB, Insomnia  
+### [Snowy Escape](https://github.com/Srijan-Petwal/snowy-escape)
+A 3D web game — navigate through a snowy world right in your browser.  
+**Tech Used:** React Three Fiber, Three.js, JavaScript, Zustand, GSAP, Rapier Physics, Blender, Vite
 
 ---
 
-### 💻 [3D-within-3D](https://github.com/Srijan-Petwal/3D-within-3D)  
+### [3D-within-3D](https://github.com/Srijan-Petwal/3D-within-3D)
 A meta-3D experiment — a mini-game running *inside* a 3D laptop model.  
-**Tech Used:** Three.js, React Three Fiber  
+**Tech Used:** Three.js, React Three Fiber
 
 ---
 
-### 🎙️ [Vox Coder](https://github.com/Pranav-Uniyal/Vox-Coder-Voice-Enabled-Compiler)  
-A speech-to-code application that converts spoken input into syntax trees with visual parsing.  
-**Tech Used:** Python, Tkinter, Lark, SpeechRecognition  
+### [R3F Document Helper Agent](https://github.com/Srijan-Petwal/R3F-Document-Helper-Agent)
+A RAG-based agent for navigating and understanding React Three Fiber documentation using retrieval, vector search, and an agentic workflow.  
+**Tech Used:** Python, LangChain, LangGraph, Pinecone, Tavily, OpenRouter, LangSmith, RAG
 
 ---
 
-### 🖼️ [E-Portfolio](https://github.com/Srijan-Petwal/Eportfolio-assign)  
-An elegant personal portfolio built for a university assignment — with a 3D twist.  
-**Tech Used:** HTML, CSS, JavaScript, Three.js  
-
----
-
-### 🧪 [Hello Cocco](https://github.com/Srijan-Petwal/hello-cocco)  
-A containerized 3D sandbox deployed via Docker on AWS EC2. Explore animated scenes built using Blender assets and React Three Fiber.  
-**Tech Used:** React Three Fiber, Three.js, Blender, Docker, AWS EC2  
-
----
-
-### ☀️ [3D Solar System](https://github.com/Srijan-Petwal/3D-Solar-System)  
-An accurate, orbiting solar system simulation in the browser with dynamic lighting and real-scale orbits.  
-**Tech Used:** Three.js, Lighting, Shadows, OrbitControls  
-
----
-
-## 💬 Let's Connect!
+## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-petwal)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/srijancs)
 
 ---
 
-_💡 Check out my pinned repositories below — they showcase my most exciting and technically challenging work!_
+_Check out my pinned repositories below — they showcase my most exciting and technically challenging work._
