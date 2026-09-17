@@ -101,14 +101,6 @@ A 3D web game — navigate through a snowy world right in your browser.
 
 ---
 
-### [3D-within-3D](https://github.com/Srijan-Petwal/3D-within-3D)
-
-A meta-3D experiment — a mini-game running *inside* a 3D laptop model.
-
-**Tech Used:** Three.js · React Three Fiber
-
----
-
 ### [R3F Document Helper Agent](https://github.com/Srijan-Petwal/R3F-Document-Helper-Agent)
 
 A RAG-based agent for navigating and understanding React Three Fiber documentation using retrieval, vector search, and an agentic workflow.
