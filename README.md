@@ -93,6 +93,14 @@ I enjoy going deep into the things I build, from understanding how a system work
 
 ## Featured Projects
 
+### [Talent Acquisition Platform](https://github.com/Srijan-Petwal/Talent-Acquisition-Agent)
+
+A multi-agent recruitment workflow that helps both candidates and recruiters. It classifies candidate profiles, retrieves matching jobs from Pinecone, assesses skill alignment per job, computes a deterministic match score, and routes each job to rejection, recruiter review, or assessment using LangGraph's dynamic routing. A FastAPI backend and React frontend are in progress.
+
+**Tech Used:** Python · LangChain · LangGraph · Gemini · OpenRouter · Pinecone · Pydantic · uv
+
+---
+
 ### [Snowy Escape](https://github.com/Srijan-Petwal/snowy-escape)
 
 A 3D web game — navigate through a snowy world right in your browser.
