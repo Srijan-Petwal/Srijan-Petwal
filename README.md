@@ -1,6 +1,6 @@
 # Hiya, I'm Srijan!
 
-Building things that **immerse, automate, and think**, from 3D experiences to AI agents.
+Building things that **immerse, automate, and think**, from advanced web experiences, ai/ml models to latest agentic workflows.
 <p align="left">
   <a href="https://&#115;&#114;&#105;&#106;&#097;&#110;&#045;&#112;&#101;&#116;&#119;&#097;&#108;&#046;&#112;&#097;&#103;&#101;&#115;&#046;&#100;&#101;&#118;" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluency/30/domain.png" alt="Portfolio" title="Portfolio" />
@@ -104,7 +104,7 @@ An interactive developer portfolio showcasing my work across full-stack developm
 
 [![portfolio '26 — Visit my Portfolio](https://srijan-petwal.pages.dev/og-image-2.png)](https://&#115;&#114;&#105;&#106;&#097;&#110;&#045;&#112;&#101;&#116;&#119;&#097;&#108;&#046;&#112;&#097;&#103;&#101;&#115;&#046;&#100;&#101;&#118;)
 
-An interactive showcase of my work in 3D web experiences, full-stack development, and AI agents.
+An interactive showcase of my work in software development, AI/ML, full-stack development, and multi-agent workflows.
 
 ---
 
