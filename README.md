@@ -3,16 +3,20 @@
 Building things that **immerse, automate, and think**, from 3D experiences to AI agents.
 
 <p align="left">
-  <a href="mailto:s&#114;&#105;&#106;&#097;&#110;&#112;&#101;&#116;&#119;&#097;&#108;&#050;&#053;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" target="_blank">
-    <img src="https://img.icons8.com/color/30/gmail--v1.png" alt="Gmail" />
+  <a href="https://srijan-petwal.pages.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/30/domain.png" alt="Portfolio" title="Portfolio" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/&#115;&#114;&#105;&#106;&#097;&#110;&#099;&#115;" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitterx.png" alt="X/Twitter" />
+  <a href="mailto:srijanpetwal25@gmail.com">
+    <img src="https://img.icons8.com/color/30/gmail--v1.png" alt="Gmail" title="Email me" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/&#115;&#114;&#105;&#106;&#097;&#110;&#045;&#112;&#101;&#116;&#119;&#097;&#108;" target="_blank">
-    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn" />
+  <a href="https://x.com/srijancs" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitterx.png" alt="X" title="X / Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/srijan-petwal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn" title="LinkedIn" />
   </a>
 </p>
 
@@ -93,6 +97,18 @@ I enjoy going deep into the things I build, from understanding how a system work
 
 ## Featured Projects
 
+### [Portfolio Website](https://srijan-petwal.pages.dev/)
+
+An interactive developer portfolio showcasing my work across full-stack development, AI/ML, agentic systems, and immersive 3D web experiences. Designed to bring projects to life through a distinctive visual experience, with dedicated project pages highlighting the ideas, technical decisions, and implementation behind each build.
+
+## Explore My Portfolio
+
+[![portfolio '26 — Visit my Portfolio](https://srijan-petwal.pages.dev/og-image-2.png)](https://srijan-petwal.pages.dev/)
+
+An interactive showcase of my work in 3D web experiences, full-stack development, and AI agents.
+
+---
+
 ### [Talent Acquisition Platform](https://github.com/Srijan-Petwal/Talent-Acquisition-Agent)
 
 A multi-agent recruitment workflow that helps both candidates and recruiters. It classifies candidate profiles, retrieves matching jobs from Pinecone, assesses skill alignment per job, computes a deterministic match score, and routes each job to rejection, recruiter review, or assessment using LangGraph's dynamic routing. A FastAPI backend and React frontend are in progress.
@@ -121,13 +137,16 @@ A RAG-based agent for navigating and understanding React Three Fiber documentati
 
 <p align="left">
   <a href="https://www.linkedin.com/in/srijan-petwal">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/srijancs">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://srijan-petwal.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-_Check out my pinned repositories below: they showcase my most exciting and technically challenging work._
+*Check out my pinned repositories below: they showcase my most exciting and technically challenging work.*
