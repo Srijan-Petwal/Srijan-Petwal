@@ -1,22 +1,21 @@
 # Hiya, I'm Srijan!
 
 Building things that **immerse, automate, and think**, from 3D experiences to AI agents.
-
 <p align="left">
-  <a href="https://srijan-petwal.pages.dev/" target="_blank" rel="noopener noreferrer">
+  <a href="https://&#115;&#114;&#105;&#106;&#097;&#110;&#045;&#112;&#101;&#116;&#119;&#097;&#108;&#046;&#112;&#097;&#103;&#101;&#115;&#046;&#100;&#101;&#118;" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluency/30/domain.png" alt="Portfolio" title="Portfolio" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:srijanpetwal25@gmail.com">
-    <img src="https://img.icons8.com/color/30/gmail--v1.png" alt="Gmail" title="Email me" />
+  <a href="mailto:s&#114;&#105;&#106;&#097;&#110;&#112;&#101;&#116;&#119;&#097;&#108;&#050;&#053;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" target="_blank">
+    <img src="https://img.icons8.com/color/30/gmail--v1.png" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/srijancs" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitterx.png" alt="X" title="X / Twitter" />
+  <a href="https://x.com/&#115;&#114;&#105;&#106;&#097;&#110;&#099;&#115;" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitterx.png" alt="X/Twitter" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/srijan-petwal" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn" title="LinkedIn" />
+  <a href="https://linkedin.com/in/&#115;&#114;&#105;&#106;&#097;&#110;&#045;&#112;&#101;&#116;&#119;&#097;&#108;" target="_blank">
+    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn" />
   </a>
 </p>
 
@@ -103,7 +102,7 @@ An interactive developer portfolio showcasing my work across full-stack developm
 
 ## Explore My Portfolio
 
-[![portfolio '26 — Visit my Portfolio](https://srijan-petwal.pages.dev/og-image-2.png)](https://srijan-petwal.pages.dev/)
+[![portfolio '26 — Visit my Portfolio](https://srijan-petwal.pages.dev/og-image-2.png)](https://&#115;&#114;&#105;&#106;&#097;&#110;&#045;&#112;&#101;&#116;&#119;&#097;&#108;&#046;&#112;&#097;&#103;&#101;&#115;&#046;&#100;&#101;&#118;)
 
 An interactive showcase of my work in 3D web experiences, full-stack development, and AI agents.
 
