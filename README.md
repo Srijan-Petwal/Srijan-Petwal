@@ -117,7 +117,7 @@ A RAG-based agent for navigating and understanding React Three Fiber documentati
 ---
 <p align="left">
   <a href="https://&#115;&#114;&#105;&#106;&#097;&#110;&#045;&#112;&#101;&#116;&#119;&#097;&#108;&#046;&#112;&#097;&#103;&#101;&#115;&#046;&#100;&#101;&#118;" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/30/domain.png" alt="Portfolio" title="Portfolio" />
+    <img src="https://img.icons8.com/?size=32&id=5Lss2FosoQhJ&format=png&color=000000" alt="Portfolio" title="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:s&#114;&#105;&#106;&#097;&#110;&#112;&#101;&#116;&#119;&#097;&#108;&#050;&#053;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" target="_blank">
@@ -125,7 +125,7 @@ A RAG-based agent for navigating and understanding React Three Fiber documentati
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/&#115;&#114;&#105;&#106;&#097;&#110;&#099;&#115;" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X/Twitter" />
+    <img src="https://img.icons8.com/?size=32&id=ClbD5JTFM7FA&format=png&color=000000" alt="X/Twitter" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/&#115;&#114;&#105;&#106;&#097;&#110;&#045;&#112;&#101;&#116;&#119;&#097;&#108;" target="_blank">
