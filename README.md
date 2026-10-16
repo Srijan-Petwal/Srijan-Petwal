@@ -1,10 +1,11 @@
-# Hiya, I'm Srijan!
+<h1>Hiya, I'm Srijan! <a href="https://srijan-petwal.pages.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=32&id=5Lss2FosoQhJ&format=png&color=000000" alt="Frog" title="Visit my portfolio"  align=""></a></h1>
 
 Building things that **immerse, automate, and think**, from advanced web experiences, ai/ml models to latest agentic workflows.
 
 ---
 
 ## Meet me at the spot, Explore My Portfolio
+  </a></p>
 
 [![portfolio '26 — Visit my Portfolio](https://srijan-petwal.pages.dev/og-image-2.png)](https://&#115;&#114;&#105;&#106;&#097;&#110;&#045;&#112;&#101;&#116;&#119;&#097;&#108;&#046;&#112;&#097;&#103;&#101;&#115;&#046;&#100;&#101;&#118;)
 
