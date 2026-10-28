@@ -13,43 +13,9 @@ Showcase of my work in software development, AI/ML, full-stack development, and 
 
 Click the preview or visit: [srijan-petwal.pages.dev](https://srijan-petwal.pages.dev)
 
----
 
-## About Me
-
-> **Curious by nature. Coder by choice. Creative by accident.**  
-> I build things that *immerse*, *move*, *talk*, and *sometimes think* (what is thinking actually?).
-
-I enjoy going deep into the things I build, from understanding how a system works under the hood to actually deploying, debugging, and shipping it.
-
----
-
-## What I Do
-
-- Build **Web Apps** that feel light and move fast
-- Create immersive **3D Games & Experiences** for the browser
-- Explore **AI/ML**, from traditional machine learning to generative AI and agentic systems
-- Experiment with **RAG, AI agents, tools, and LLM-based applications**
-- Believe that **freedom and liberty** — in software, speech, and life — are essential
-
----
 
 ## Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23FFD62E?style=flat&logo=vite&logoColor=%23646CFF)
-
-### 3D / Graphics
-
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-000?style=flat)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
-![Rapier](https://img.shields.io/badge/-Rapier-000000?style=flat)
 
 ### AI / ML
 
@@ -74,48 +40,36 @@ I enjoy going deep into the things I build, from understanding how a system work
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-555555?style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat)
+
+### Frontend
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23FFD62E?style=flat&logo=vite&logoColor=%23646CFF)
 
 ### Tools & Infrastructure
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
----
+### 3D / Graphics
 
-## Featured Projects
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-000?style=flat)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Rapier](https://img.shields.io/badge/-Rapier-000000?style=flat)
 
-### [Talent Acquisition Platform](https://github.com/Srijan-Petwal/Talent-Acquisition-Agent)
-
-A multi-agent recruitment workflow that helps both candidates and recruiters. It classifies candidate profiles, retrieves matching jobs from Pinecone, assesses skill alignment per job, computes a deterministic match score, and routes each job to rejection, recruiter review, or assessment using LangGraph's dynamic routing. A FastAPI backend and React frontend are in progress.
-
-**Tech Used:** Python · LangChain · LangGraph · Gemini · OpenRouter · Pinecone · Pydantic · uv
-
----
-
-### [Snowy Escape](https://github.com/Srijan-Petwal/snowy-escape)
-
-A 3D web game — navigate through a snowy world right in your browser.
-
-**Tech Used:** React Three Fiber · Three.js · Zustand · GSAP · Rapier Physics · Blender · Vite
-
----
-
-### [R3F Document Helper Agent](https://github.com/Srijan-Petwal/R3F-Document-Helper-Agent)
-
-A RAG-based agent for navigating and understanding React Three Fiber documentation using retrieval, vector search, and an agentic workflow.
-
-**Tech Used:** Python · LangChain · LangGraph · Pinecone · Tavily · OpenRouter · LangSmith · RAG
-
----
 
 ## Let's Connect
----
+
 <p align="left">
   <a href="https://&#115;&#114;&#105;&#106;&#097;&#110;&#045;&#112;&#101;&#116;&#119;&#097;&#108;&#046;&#112;&#097;&#103;&#101;&#115;&#046;&#100;&#101;&#118;" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/?size=32&id=5Lss2FosoQhJ&format=png&color=000000" alt="Portfolio" title="Portfolio" />
